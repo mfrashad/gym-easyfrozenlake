@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_easyfrozenlake.egg-info/PKG-INFO
+gym_easyfrozenlake.egg-info/SOURCES.txt
+gym_easyfrozenlake.egg-info/dependency_links.txt
+gym_easyfrozenlake.egg-info/requires.txt
+gym_easyfrozenlake.egg-info/top_level.txt
