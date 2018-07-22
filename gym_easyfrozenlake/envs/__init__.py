@@ -1,0 +1,1 @@
+from gym_easyfrozenlake.envs.easyfrozenlake_env import EasyFrozenLake
